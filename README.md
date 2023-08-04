@@ -9,4 +9,4 @@
 Создать копию документа с требованиями Проанализировать требования, все несоответствия и дополнительные вопросы по ним внести в столбец "Комментарии" Выслать решение в поле ниже 
 
 Решение: https://drive.google.com/file/d/1T6Ot-LbsBxSLeUAwq51goQ4cQM5ud4Ms/view?usp=sharing
-![image](https://github.com/vdruda/Requirements_analysis/assets/141385609/0e099996-33fd-4727-817f-9fcb90d9b153)
+
